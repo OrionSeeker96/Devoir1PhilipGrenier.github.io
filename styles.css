@@ -7,3 +7,6 @@ h1 {
 .paragraph {
     font-family: 'Open Sans Condensed', sans-serif;
 }
+.h1 {
+    color: blue;
+}
