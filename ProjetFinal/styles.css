@@ -1,0 +1,18 @@
+.h1 {
+    font-size: 70px;
+    color: rgb(179, 95, 0);
+    text-decoration: underline;
+    text-align: center;
+}
+.h2 {
+    font-size: 15px;
+    color: rgb(253, 246, 238);
+    text-align: center;
+}
+.sous-titre, .paragraphe {
+    border-color: rgb(179, 95, 0);
+    border-style: solid;
+    border-width: 10px;
+    padding: 3vw;
+    background-color: rgb(226, 192, 147);
+}
