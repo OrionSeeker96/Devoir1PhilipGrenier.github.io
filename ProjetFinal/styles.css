@@ -9,10 +9,45 @@
     color: rgb(253, 246, 238);
     text-align: center;
 }
-.sous-titre, .paragraphe {
+.margins {
+    margin-right: 15vw;
+    margin-left: 15vw;
+    margin-top: 5vw;
+    margin-bottom: 10vw;
+}
+.sous-titre {
+    font-size: 70px;
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+    color: rgb(226, 192, 147);
+    text-align: center;
+}
+.paragraphe {
     border-color: rgb(179, 95, 0);
     border-style: solid;
     border-width: 10px;
     padding: 3vw;
+    font-size: 30px;
     background-color: rgb(226, 192, 147);
+    text-align: justify;
+}
+.title {
+    text-align: center;
+}
+body {
+    background-image: url("fond-1.jpg");
+    background-image: no-repeat;
+    background-size: 1530px 3000px;
+    background-attachment: fixed;
+    background-position: center;
+}
+.noms {
+    color: white;
+    text-align: center;
+    margin-top: -3vw;
+}
+ul {
+    font-size: 40px;
+    color:rgb(0, 0, 0);
+    margin-left: 380px;
 }
