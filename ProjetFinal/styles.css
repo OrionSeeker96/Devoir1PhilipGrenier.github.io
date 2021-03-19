@@ -47,13 +47,13 @@ body {
     text-align: center;
     margin-top: -3vw;
 }
-ul {
+/*ul {
     font-size: 40px;
     color:rgb(0, 0, 0);
     margin-left: 380px;
-}
+}*/
 .image {
-    width: 30%;
+    width: 33%;
     height: auto;
 }
 .galerie {
@@ -65,12 +65,12 @@ ul {
 }
 button {
     margin-top: 5vw;
-    margin-left: 105px;
-    margin-right: 105px;
+    margin-left: 83px;
+    margin-right: 83px;
     font-size: 23px;
     background-color: whitesmoke;
     border: none;
     border-radius: 6px;
     padding: 10px 15px;
+    width: 175px;
 }
-
