@@ -3,12 +3,8 @@
     color: rgb(179, 95, 0);
     text-decoration: underline;
     text-align: center;
+    font-style: italic;
 }
-/*.h2 {
-    font-size: 15px;
-    color: rgb(253, 246, 238);
-    text-align: center;
-}*/
 .margins {
     margin-right: 15vw;
     margin-left: 15vw;
@@ -23,12 +19,12 @@
     text-align: center;
 }
 .paragraphe {
-    border-color: rgb(179, 95, 0);
+    border-color: rgb(0, 0, 0);
     border-style: solid;
     border-width: 10px;
     padding: 3vw;
     font-size: 30px;
-    background-color: rgb(250, 228, 199);
+    background-color: rgb(250, 228, 199, 0.85);
     text-align: justify;
     color: black;
 }
@@ -42,19 +38,12 @@ body {
     background-attachment: fixed;
     background-position: center;
 }
-.noms {
-    color: white;
-    text-align: center;
-    margin-top: -3vw;
-}
-/*ul {
-    font-size: 40px;
-    color:rgb(0, 0, 0);
-    margin-left: 380px;
-}*/
 .image {
-    width: 33%;
+    width: 32%;
     height: auto;
+    border-style: solid;
+    border-width: medium;
+
 }
 .galerie {
     margin-top: 5vw;
@@ -68,9 +57,18 @@ button {
     margin-left: 83px;
     margin-right: 83px;
     font-size: 23px;
-    background-color: whitesmoke;
-    border: none;
+    background-color: rgb(211, 193, 177);
+    border-style: solid;
+    border-color: black;
     border-radius: 6px;
     padding: 10px 15px;
     width: 175px;
+}
+span {
+    font-size: 70%;
+}
+.credit {
+    color: white;
+    text-align: center;
+    margin-top: 5vw;
 }
